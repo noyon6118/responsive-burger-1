@@ -1,0 +1,323 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 1024px) {
+  
+
+  .main-header {
+    width: 100%;
+    float: left;
+}
+  .logo-part {
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.menu-part {
+  width: 100%;
+  float: left;
+}
+
+.delivery-part {
+  width: 50%;
+  float: left;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.menu {
+  width: 50%;
+  float: left;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.menu h1{
+  color: #3d2514;
+  font-size: 20px;
+}  
+
+
+
+
+.hero-contant {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.hero-contant h2{
+  font-size: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.hero-contant h3{
+  font-size: 40px;
+  text-align: center;
+
+}
+
+.hero-img {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+
+.cal-1 {
+  width: 100%;
+  float: left;
+  background: url(../photo/b1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0px 0px 10px 0px;
+  border-radius: 8px;
+}
+
+.cal-2 {
+  width: 100%;
+  float: left;
+}
+
+.cal-2 .row-1 {
+  width: 100%;
+  float: left;
+  background: url(../photo/b2.png);
+  height: 195px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0px 0px 10px 0px;
+  border-radius: 5px;
+}
+
+.cal-2 .row-2 {
+  width: 100%;
+  float: left;
+  background: url(../photo/b3.png);
+  height: 195px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0px 0px 0px 0px;
+  border-radius: 5px;
+}
+
+
+.row1 h2 {
+  font-size: 30px;
+  color: #3d2514;
+  margin-bottom: 20px;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+
+
+.row1 p {
+    color: #3d2514;
+    padding: 0px 0px;
+}
+    
+
+.section1 {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+}
+
+.section1 img{
+  width: 100%;
+  text-align: center;
+}
+
+
+
+.section2 {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+}
+
+.section2 img{
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.section111 {
+  width: 100%;
+  float: left;
+}
+
+.section111 img{
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.discoverd {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.discoverd h4 {
+  padding: 10px 0px 30px 0px;
+}
+
+.img {
+  width: 100%;
+  float: left;
+}
+
+.img img{
+  width: 100%;
+}
+
+.recevtion h3 {
+  font-size: 25px;
+  color: #3d2514;
+  margin-bottom: 20px;
+  font-family: 'Alfa Slab One', cursive;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#section5 {
+  width: 100%;
+  float: left;
+  background: url(../photo/bg-2.png);
+  padding: 30PX 0PX;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  margin: 50px 0px;
+}
+
+
+
+.box1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.box2 {
+  width: 100%;
+  float: left;
+  margin-left: 0px;
+  text-align: left;
+  text-align: center;
+}
+
+
+
+.table1 {
+    text-align: center;
+    padding: 1px 0px 1px 0px;
+}
+
+.table {
+  padding: 10px  10px 10px;
+  border: none;
+  box-shadow: 1px 3px 8px black;
+  margin-bottom: 5px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+}
+
+
+
+.footer-img-part img{
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+    
+}
+
+.footer-contant-part {
+  width: 100%;
+  float: left;
+}
+
+.contant1  {
+  margin-top: -50px;
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+
+}
+
+.contant2 {
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+
+.contant2 img{
+  width: 5%;
+  font-size: 5px;
+  
+}
+
+
+
+.footer-botom-part img {
+  
+  width: 15%;
+}
+
+.copirite {
+  width: 70%;
+  float: left;
+  font-size: 15px;
+}
+
+.icon {
+  width: 30%;
+  float: left;
+  text-align: end;
+}
+
+.mobile-menu{
+  display: block;
+}
+
+.main-menu:hover .dropdown{
+  display: block;
+}
+
+.computer-menu{
+  display: none;
+}
+
+.mobile-menu ul li a {
+  box-shadow: 1px 1px 10px black;
+  padding: 5px 10px;
+}
+
+  } 
+
+    
+
+
+    
+
+      
+
+
+
+
+
+
+

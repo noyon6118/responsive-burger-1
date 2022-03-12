@@ -1,0 +1,95 @@
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+    .menu h1{
+        display: none;
+    }
+
+
+  
+
+    .section1 {
+        width: 33%;
+        float: left;
+    }
+
+   
+
+    .section2 {
+        width: 30%;
+        float: left;
+        padding: 1px 30px;
+       
+    }
+    
+    .section111 {
+        width: 33%;
+        float: left;
+        padding-bottom: 50px;
+       
+        
+
+    }
+
+    
+
+    
+      
+    
+
+    .section111-contant img{
+        margin-left: 69px;
+    }
+
+    .section111-contant h1{
+       
+        width: 100%;
+        margin-left: 140px;
+    }
+
+    .section111-contant p{
+        width: 100%;
+        margin-left: 140px;
+    }
+
+    .section111-contant a{
+        margin-left: 247px;
+    }
+
+    .section2 h1 {
+        text-transform: uppercase;
+        color: #3d2514;
+        padding-bottom: 10px;
+        width: 100%;
+        margin-left: 50px;
+    }
+
+    .section2 p {
+        padding: 0px 0px;
+        width: 100%;
+        margin-left: 46px;
+
+    }
+
+    .section2 a{
+        margin-left: 90px;
+    }
+
+    .contant1 p {
+        font-size: 25px;
+    }
+
+    .copirite {
+        font-size: 30px;
+    }
+
+
+
+    
+
+
+  }
